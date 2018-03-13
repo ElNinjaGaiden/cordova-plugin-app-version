@@ -1,9 +1,9 @@
 {
-    "name": "uk.co.whiteoctober.cordova.appversion",
+    "name": "com.elninjagaiden.cordova.appversion",
     "version": "1.0.0",
     "description": "Cordova Plugin to access app version and app build version",
     "cordova": {
-      "id": "uk.co.whiteoctober.cordova.appversion",
+      "id": "com.elninjagaiden.cordova.appversion",
       "platforms": [
         "android",
         "ios"
