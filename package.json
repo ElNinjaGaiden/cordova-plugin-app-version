@@ -1,0 +1,31 @@
+{
+    "name": "uk.co.whiteoctober.cordova.appversion",
+    "version": "1.0.0",
+    "description": "Cordova Plugin to access app version and app build version",
+    "cordova": {
+      "id": "uk.co.whiteoctober.cordova.appversion",
+      "platforms": [
+        "android",
+        "ios"
+      ]
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/ElNinjaGaiden/cordova-plugin-app-version"
+    },
+    "keywords": [
+      "cordova",
+      "store",
+      "itunes",
+      "play",
+      "ecosystem:cordova",
+      "cordova-android",
+      "cordova-ios"
+    ],
+    "author": "ElNinjaGaiden",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/ElNinjaGaiden/cordova-plugin-app-version/issues"
+    },
+    "homepage": "https://github.com/ElNinjaGaiden/cordova-plugin-app-version#readme"
+  }
